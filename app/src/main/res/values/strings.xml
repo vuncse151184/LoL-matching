@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LoL Matching</string>
+    <string name="button_play">Play</string>
+    <string name="user_name">Enter your name</string>
 </resources>
